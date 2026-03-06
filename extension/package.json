@@ -1,0 +1,45 @@
+{
+  "name": "vira-inspired-theme",
+  "displayName": "Vira Inspired Theme",
+  "description": "A Material-inspired dark theme for VS Code. Includes Ocean, Palenight, Carbon, and High Contrast variants. Pairs with Material Icon Theme.",
+  "version": "1.0.0",
+  "publisher": "Yakub Lute",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "material", "ocean", "palenight", "carbon"],
+  "galleryBanner": {
+    "color": "#0D1117",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vira Inspired – Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ocean.json"
+      },
+      {
+        "label": "Vira Inspired – Palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/palenight.json"
+      },
+      {
+        "label": "Vira Inspired – Carbon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon.json"
+      },
+      {
+        "label": "Vira Inspired – High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/high-contrast.json"
+      }
+    ]
+  },
+  "extensionDependencies": [
+    "PKief.material-icon-theme"
+  ],
+  "readme": "README.md",
+  "license": "MIT"
+}
