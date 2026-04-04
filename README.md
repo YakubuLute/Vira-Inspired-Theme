@@ -6,6 +6,8 @@ A Material-inspired VS Code theme with four carefully crafted dark variants. Ins
 
 - **Ocean** — Deep navy blues with teal accent. Easy on the eyes during long sessions.
 - **Palenight** — Rich purple darks with violet accent. Elegant and immersive.
+<img width="2858" height="1604" alt="image" src="https://github.com/user-attachments/assets/8f1e6a59-a378-4f80-9c30-f6a7904436e5" />
+
 - **Carbon** — Near-black with desaturated syntax colors. Clean and distraction-free.
 - **High Contrast** — Maximum readability with vivid, fully saturated colors.
 
