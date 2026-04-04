@@ -5,11 +5,16 @@ A Material-inspired VS Code theme with four carefully crafted dark variants. Ins
 ## Variants
 
 - **Ocean** — Deep navy blues with teal accent. Easy on the eyes during long sessions.
+<img width="1461" height="790" alt="image" src="https://github.com/user-attachments/assets/975b5fd7-17aa-47e0-b2af-ba78ca8bb95c" />
+
 - **Palenight** — Rich purple darks with violet accent. Elegant and immersive.
-<img width="2858" height="1604" alt="image" src="https://github.com/user-attachments/assets/8f1e6a59-a378-4f80-9c30-f6a7904436e5" />
+<img width="2874" height="1578" alt="image" src="https://github.com/user-attachments/assets/9ad38e6a-53aa-4251-bad4-cba36d55b9cb" />
 
 - **Carbon** — Near-black with desaturated syntax colors. Clean and distraction-free.
+<img width="2860" height="1564" alt="image" src="https://github.com/user-attachments/assets/b99ee8bb-254c-495e-b89a-3ad3f04db0dc" />
+
 - **High Contrast** — Maximum readability with vivid, fully saturated colors.
+<img width="2858" height="1554" alt="image" src="https://github.com/user-attachments/assets/8ddc821f-a358-42d5-9f2d-829cda0b3ffe" />
 
 ## Icons
 
